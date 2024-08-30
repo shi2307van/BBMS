@@ -14,11 +14,13 @@ Compliance and Audit: Ensures regulatory compliance by maintaining detailed reco
 A BBMS aims to improve efficiency, accuracy, and safety in the management of blood products, ultimately supporting better patient care and resource utilization.
 
 ![Screenshot 2023-04-25 104612](https://github.com/user-attachments/assets/381121a0-d578-419b-930c-f8196645ca0f)
-
-
-![Screenshot 2023-04-25 104746](https://github.com/user-attachments/assets/6d7f9d77-a0cd-459e-aee2-14966b398e85)
-
-
 ![Screenshot 2023-04-25 104713](https://github.com/user-attachments/assets/7e5cd6b8-bbf4-4267-a64d-052aa6f91ff3)
-
+![Screenshot 2023-04-25 104746](https://github.com/user-attachments/assets/6d7f9d77-a0cd-459e-aee2-14966b398e85)
+![Screenshot 2023-04-25 105750](https://github.com/user-attachments/assets/73f87d8b-d1ee-4966-b249-c2d6a4747c79)
 ![Screenshot 2023-04-25 105100](https://github.com/user-attachments/assets/4427aae0-529d-48c1-bea4-0e4e477bf23b)
+![Screenshot 2023-04-25 105937](https://github.com/user-attachments/assets/430055b1-28b8-4255-9f81-73f54d3f7037)
+![Screenshot 2023-04-25 105458](https://github.com/user-attachments/assets/15544381-5cd2-4bdb-9a24-f6672002bf3c)
+![Screenshot 2023-04-25 104204](https://github.com/user-attachments/assets/265f08f9-eb40-4698-9ae1-00890ae16ae1)
+![Screenshot 2023-04-25 103655](https://github.com/user-attachments/assets/44952683-003a-48e1-82d8-7844cb5c5381)
+![Screenshot 2023-04-25 103933](https://github.com/user-attachments/assets/9169cbc7-ea26-4ec8-9fd1-a142f079eb8d)
+![Screenshot 2023-04-25 103106](https://github.com/user-attachments/assets/d0662d9b-34aa-4215-a598-76f606d0010d)
